@@ -1,0 +1,8 @@
+gTTS
+pyaudio
+playsound==1.2.2
+cx-Freeze
+deep-translator
+SpeechRecognition
+google-transliteration-api
+streamlit

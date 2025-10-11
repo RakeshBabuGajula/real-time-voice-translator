@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "linguasync"
+version = "1.0.0"
+description = "Real-Time Voice Translator (LinguaSync) - Streamlit web app for live speech translation"
+authors = ["Rakesh Babu Gajula <grakesh2605@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "1.24.1"
+SpeechRecognition = "3.8.1"
+deep-translator = "1.11.1"
+gTTS = "2.3.1"
+google-transliteration-api = "1.0.3"
+pyaudio = "0.2.13"
+playsound = "1.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
