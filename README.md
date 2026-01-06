@@ -1,5 +1,7 @@
 # 🌐 Real-Time Voice Translator
 
+<img width="1536" height="1024" alt="Voice Translator thumbnail" src="https://github.com/user-attachments/assets/7bb6ac4b-12b0-435b-87b3-f4c9fbe27c37" />
+
 **Streamlit version ** — a Python application that captures speech input, translates it to a selected target language, and plays back the translated audio. This web version improves accessibility and user experience while preserving the core functionality: speech recognition → translation → text-to-speech.
 
 ---
