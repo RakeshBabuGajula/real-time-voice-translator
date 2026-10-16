@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://youtu.be/WB1wDMpseBg?si=eWcA9bIFdnNJYJWp"><img src="https://img.shields.io/badge/YouTube-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo" /></a>
-  <a href="https://drive.google.com/file/d/1LzqIzzdsnepam0lrE3EUmEsg9238bPW0/view?usp=drivesdk"><img src="https://img.shields.io/badge/Google_Drive-Watch_Walkthrough-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Drive Demo" /></a>
   <a href="https://github.com/RakeshBabuGajula/real-time-voice-translator"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
 </p>
 
@@ -372,11 +371,11 @@ Each exported record contains:
 - **Swecha Code**: [swecha.org/RakeshGajula](https://code.swecha.org/RakeshGajula/real-time-voice-translator)
 
 ### Team & Collaborators
-- **Rakesh Babu Gajula** — Lead Architect (Streamlit, Audio Pipeline, NLP Integration)
-- **Gopal** — Speech Recognition & Neural Translation Engine
-- **Raheem** — UI/UX Engineering & Manual QA Testing
-- **Mukund** — Desktop Packaging & Executable Deployment
-- **Charan** — Technical Documentation & User Acquisition
+- **Rakesh Babu Gajula** - Lead Architect (Streamlit, Audio Pipeline, NLP Integration)
+- **Gopal** - Speech Recognition & Neural Translation Engine
+- **Raheem** - UI/UX Engineering & Manual QA Testing
+- **Mukund** - Desktop Packaging & Executable Deployment
+- **Charan** - Technical Documentation & User Acquisition
 
 ### Acknowledgments
 - **Swecha & Viswam.ai** for mentorship, infrastructure, and championing open-source AI in regional languages.
